@@ -1,11 +1,13 @@
 body {
     font-family: Arial, sans-serif;
+    color: #333; /* Dark grey for text */
 }
 
 header {
-    background-color: #f8f9fa;
+    background-color: #007BFF; /* A solid blue */
     padding: 10px;
     text-align: center;
+    color: #fff; /* White text for contrast */
 }
 
 nav ul {
@@ -23,10 +25,11 @@ main {
 }
 
 footer {
-    background-color: #f8f9fa;
+    background-color: #007BFF; /* Same blue as the header */
     text-align: center;
     padding: 10px;
     position: fixed;
     bottom: 0;
     width: 100%;
+    color: #fff; /* White text for contrast */
 }
